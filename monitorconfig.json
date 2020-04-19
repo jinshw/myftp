@@ -1,0 +1,15 @@
+{
+  "dir": "E:\\\\test",
+  "serverlist": [
+    {
+      "ftpserver": "192.168.75.140:22221",
+      "user": "ftpuser",
+      "password": "ftpuser"
+    },
+    {
+      "ftpserver": "127.0.0.1:21",
+      "user": "ftpuser",
+      "password": "ftpuser"
+    }
+  ]
+}
