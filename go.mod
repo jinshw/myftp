@@ -5,6 +5,7 @@ go 1.14
 require (
 	github.com/Unknwon/goconfig v0.0.0-20191126170842-860a72fb44fd
 	github.com/davecgh/go-spew v1.1.1
+	github.com/fsnotify/fsnotify v1.4.9
 	github.com/goftp/file-driver v0.0.0-20180502053751-5d604a0fc0c9
 	github.com/goftp/server v0.0.0-20190712054601-1149070ae46b
 	github.com/gopherjs/gopherjs v0.0.0-20200217142428-fce0ec30dd00
